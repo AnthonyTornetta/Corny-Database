@@ -1,0 +1,16 @@
+{
+  "name": "corny-database",
+  "version": "1.0.5",
+  "description": "A really memory intensive database",
+  "main": "Database.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node index"
+  },
+  "keywords": [
+    "redneck",
+    "database"
+  ],
+  "author": "Cornchip",
+  "license": "MIT"
+}
