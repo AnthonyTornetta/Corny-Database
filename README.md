@@ -7,7 +7,7 @@ Should you use this over something like MongoDB?  Definitely not for large scale
 ## So how does it work?
 The only export present in this package is the class "Database"
 ```js
-const Database = require('Database');
+const Database = require('corny-database');
 ```
 To use the database simply assign it a name to be loaded/saved as.
 ```js
